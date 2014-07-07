@@ -4,3 +4,4 @@ ceph.conf
 keyring.*
 target
 *.iml
+release.properties
